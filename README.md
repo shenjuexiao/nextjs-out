@@ -1,2 +1,1 @@
-# nextjs-out
-nextjs-out
+# nextjs-out.shenjuexiao.com
